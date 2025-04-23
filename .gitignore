@@ -1,0 +1,14 @@
+# dotfiles
+.DS_Store
+.prettierrc
+.vscode
+
+# python
+__pycache__
+venv
+
+# mongodb data
+mongodb/data
+
+# pdfs
+*pdf
